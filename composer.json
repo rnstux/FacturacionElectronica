@@ -1,0 +1,5 @@
+{
+    "require": {
+        "phpcfdi/finkok": "^0.2.7"
+    }
+}
